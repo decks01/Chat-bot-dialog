@@ -1,0 +1,9 @@
+Subir proyecto a heroku
+
+primero crea app de heroku
+https://git.heroku.com/chat-bot-utj.git
+
+// Agregarlo a repositorio
+-- git remote add horoku https://git.heroku.com/chat-bot-utj.git
+// para comprobar si se creo y checar comandos para subir proyecto los push
+--git remote -v
